@@ -1,0 +1,4 @@
+2021-01-04 17:15:03,404 INFO  MessageController:15 - [] [getMessage] info message
+2021-01-04 17:15:03,407 WARN  MessageController:16 - [] [getMessage] warn message
+2021-01-04 17:15:03,408 ERROR MessageController:17 - [] [getMessage] error message
+2021-01-04 17:15:03,410 DEBUG MessageController:18 - [] [getMessage] debug message
